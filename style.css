@@ -1,0 +1,200 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family: "Montserrat", sans-serif;
+}
+.logo,.menu{
+    float:left;
+}
+.logo{
+   padding-top: 30px;
+   padding-left: 25px;
+}
+.menu li{
+    font-size: 18px;
+    font-weight: 700;
+    display: inline-block;
+    padding: 25px 15px;
+}
+.menu{
+   margin-left: 250px;
+}
+.icons{
+    float:right;
+    padding: 25px;
+}
+.icons i{
+    font-size: 18px;
+    padding-right:10px;
+}
+.clear{
+    clear: both;
+}
+.arrival{
+    background:url(https://demo.hasthemes.com/negan-preview/negan/assets/img/slider/hm1-slider-1.jpg);
+    background-size: 100%;
+    height: 652px;
+    background-repeat: no-repeat;
+}
+.shipping{
+    width: 500px;
+    height: 100px;
+    float: right;
+    padding: 500px 0 0 0;
+}
+.two{
+    width: 100%;
+    height: 500px;
+    background: #000;
+}
+.two1{
+    width: 100%;
+    height: 800px;
+    background: #000;
+}
+.twoorta{
+    width: 960px;
+    height: 250px;
+    margin: auto;
+    padding: 100px;
+}
+.fiveorta{
+    width: 960px;
+    height: 350px;
+    margin: auto;
+    padding: 100px;
+}
+.a{
+    width: 100%;
+    height: 40px;
+    font-size: 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+    padding: 0 15px 0 0;
+}
+.a12{
+        width: 100%;
+        height: 40px;
+        font-size: 32px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        color: #000;
+        font-weight: 500;
+        padding: 0 15px 0 0;
+}
+.span{
+    width: 100px;
+    height: 5px;
+    text-align: center;
+    color: #fff;
+    margin: -50px 0 0 305px;
+    padding: 0 0 80px 0;
+}
+.b{
+    width: 100%;
+    height: 70px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+}
+.b9{
+    width: 100%;
+    height: 70px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+    margin: 120px 0 0 0;
+    padding: 100px;
+    background: greenyellow;
+}
+.c{
+    margin: 0 0 0 270px;
+    border-color: #fff;
+}
+.c input{
+    width: 170px;
+    height: 60px;
+    border-radius: 25px;
+    border-color: #fff;
+    font-size: 17px;
+    background: #fff;
+}
+.c12 input{
+    color: #fff;
+    margin: 70px 0 0 270px;
+    width: 170px;
+    height: 60px;
+    border-radius: 25px;
+    border-color: #000;
+    font-size: 17px;
+    background: #000;
+}
+.three{
+    width: 100%;
+    height: 560px;
+    background: #fff;
+}
+.a1{
+    width: 100%;
+    height: 40px;
+    font-size: 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #000;
+    font-weight: 500;
+    padding: 60px 60px 0 0;
+}
+.span1{
+    width: 100px;
+    height: 5px;
+    text-align: center;
+    color: #000;
+    margin: 10px 0 0 600px;
+    padding: 0 0 80px 0;
+}
+.b1{
+    background-image: url(images/Capture.PNG);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 960px;
+    height: 100px;
+    margin: 100px auto 0 auto;
+}
+.c1{
+    width: 960px;
+    margin: auto;
+    height: 200px; 
+}
+.a0{
+    width: 33.33%;
+    height: 242px;
+    transition: all 0.5s;
+    float: left;
+    background: rgb(123, 245, 214);
+}
+.a0:hover{
+    background: rgb(63, 137, 160);
+    opacity: .5;
+}
+.son{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/Capture1.PNG);
+    background-size: auto
+}
+.end{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(250, 248, 248);
+    font-family: 16px;
+    color: #000;
+    text-align: center;
+    padding: 55px 0 0 0;
+}
